@@ -129,21 +129,14 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h2>🏆&nbsp;GitHub Achievements</h2>
+<h2>🔥&nbsp;GitHub Streak</h2>
 
 <br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimurhamim&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-<br/><br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=naimurhamim&theme=transparent&background=386641&ring=a7c957&fire=bc4749&currStreakLabel=a7c957&sideLabels=f2e8cf&dates=6a994e&sideNums=f2e8cf&currStreakNum=a7c957&border=6a994e&border_radius=12)
 
-<br/><br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimurhamim&bg_color=386641&color=6a994e&line=a7c957&point=f2e8cf&area=true&area_color=6a994e&border_radius=12&hide_border=false&border=6a994e)
-
 </div>
+
 
 <br/>
 
