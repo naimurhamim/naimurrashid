@@ -133,17 +133,17 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=naimurhamim&show_icons=true&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimurhamim&layout=compact&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&langs_count=8" height="175" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimurhamim&show_icons=true&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&count_private=true&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimurhamim&layout=compact&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&langs_count=8)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=naimurhamim&theme=transparent&background=386641&ring=a7c957&fire=bc4749&currStreakLabel=a7c957&sideLabels=f2e8cf&dates=6a994e&sideNums=f2e8cf&currStreakNum=a7c957&border=6a994e&border_radius=12" height="175" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=naimurhamim&theme=transparent&background=386641&ring=a7c957&fire=bc4749&currStreakLabel=a7c957&sideLabels=f2e8cf&dates=6a994e&sideNums=f2e8cf&currStreakNum=a7c957&border=6a994e&border_radius=12)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimurhamim&bg_color=386641&color=6a994e&line=a7c957&point=f2e8cf&area=true&area_color=6a994e&border_radius=12&hide_border=false&border=6a994e" width="96%" alt="Activity Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimurhamim&bg_color=386641&color=6a994e&line=a7c957&point=f2e8cf&area=true&area_color=6a994e&border_radius=12&hide_border=false&border=6a994e)
 
 </div>
 
@@ -171,12 +171,15 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SUPPORT / CTA                              -->
+<!--                    CONTACT ME                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<h2>📬&nbsp;Contact Me</h2>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-Support_my_work-bc4749?style=for-the-badge&logoColor=f2e8cf&labelColor=bc4749&color=bc4749)](https://www.buymeacoffee.com/naimurhamim)
+[![Email](https://img.shields.io/badge/📧_Email-rashidn290%40gmail.com-386641?style=for-the-badge&logoColor=f2e8cf&labelColor=386641&color=6a994e)](mailto:rashidn290@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-naimurrashid.dev-a7c957?style=for-the-badge&logoColor=386641&labelColor=a7c957&color=a7c957)](https://naimurrashid.dev/)
 
 </div>
 
