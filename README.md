@@ -129,13 +129,11 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h2>📊&nbsp;GitHub Statistics</h2>
+<h2>🏆&nbsp;GitHub Achievements</h2>
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimurhamim&show_icons=true&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&count_private=true&rank_icon=github&hide_border=false&cache_seconds=1800)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimurhamim&layout=compact&bg_color=386641&title_color=a7c957&text_color=f2e8cf&border_color=6a994e&border_radius=12&langs_count=8&hide_border=false&cache_seconds=1800)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimurhamim&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 <br/><br/>
 
