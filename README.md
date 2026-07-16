@@ -6,15 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,10&section=header&text=MD%20Naimur%20Rashid&fontColor=f2e8cf&fontSize=48&fontAlignY=40&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20IoT&descAlignY=62&descSize=18&descFontColor=a7c957&animation=twinkling" alt="header" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   PROFILE PHOTO                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <br/>
-
-<img src="https://github.com/naimurhamim.png" width="130" style="border-radius:50%; border:3px solid #a7c957; box-shadow:0 0 18px #a7c957;" alt="MD Naimur Rashid"/>
-
-<br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
