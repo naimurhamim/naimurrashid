@@ -133,9 +133,9 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimurhamim&show_icons=true&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&count_private=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimurhamim&show_icons=true&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&count_private=true&rank_icon=github&hide_border=false&cache_seconds=1800)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimurhamim&layout=compact&theme=transparent&bg_color=386641&title_color=a7c957&icon_color=6a994e&text_color=f2e8cf&border_color=6a994e&border_radius=12&hide_border=false&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimurhamim&layout=compact&bg_color=386641&title_color=a7c957&text_color=f2e8cf&border_color=6a994e&border_radius=12&langs_count=8&hide_border=false&cache_seconds=1800)
 
 <br/><br/>
 
